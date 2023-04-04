@@ -1,0 +1,357 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'roboto';
+}
+::-webkit-scrollbar{
+    display: none;
+}
+
+.logo{
+    position: absolute;
+    width: 272px;
+    height: 39px;
+    left: 93px;
+    top: 46px;
+    background: rgba(30, 165, 154, 0.69);
+    border-radius: 20px;
+    font-family: 'Genos';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 32px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 2px;
+}
+#planspricing{
+    position: absolute;
+    width: 95px;
+    height: 33px;
+    left: 400px;
+    top: 49px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 32px;
+    color: #000000;
+    text-decoration: none;
+}
+#arrowdown{
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 3px;
+    left: 103px;
+}
+#meetourteam{
+    position: absolute;
+    width: 97px;
+    height: 33px;
+    left: 565px;
+    top: 49px;
+    text-decoration: none;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 32px;
+    color: #000000;
+    
+}
+#seoanalytics{
+    position: absolute;
+    width: 89px;
+    height: 33px;
+    left: 710px;
+    top: 49px;
+    text-decoration: none;   
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 32px;
+    color: #000000;
+}
+#contactsupport{
+    position: absolute;
+    width: 102px;
+    height: 33px;
+    left: 847px;
+    top: 49px;
+    text-decoration: none;  
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 32px;
+    color: #000000;
+}
+#signup{
+    position: absolute;
+    width: 90px;
+    height: 33px;
+    left: 1130px;
+    top: 47px;
+    text-decoration: none;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 32px;
+    color: #000000;
+}
+.img1{
+        
+position: absolute;
+width: 1078px;
+height: 601px;
+left: 93px;
+top: 127px;
+
+}
+.img2{
+    position: absolute;
+    width: 164px;
+    height: 601px;
+    left: 1202px;
+    top: 127px;
+    
+    /* background: url(adeolu-eletu-unRkg2jH1j0-unsplash.jpg); */
+    border-radius: 15px 0px 0px 15px;
+}
+
+#features{
+    position: absolute;
+    width: 248px;
+    height: 43px;
+    left: 93px;
+    top: 857px;
+    
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 32px;
+    color: #505050;
+}
+
+#heading{
+    position: absolute;
+    width: 465px;
+    height: 121px;
+    left: 133px;
+    top: 199px;
+    
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 62px;
+    color: #505050;
+}
+#text1{
+    position: absolute;
+    width: 306.11px;
+    height: 370px;
+    left: 133px;
+    top: 403px;
+    
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 33px;
+    color: #505050;
+}
+
+#text2{
+    position: absolute;
+    width: 309px;
+    height: 450px;
+    left: 93px;
+    top: 952px;
+    
+    background: rgba(240, 200, 187, 0.69);
+    border-radius: 15px;
+    padding: 58px 14px 22px 30px;
+    font-family: Helvetica;
+    font-style: normal;
+    text-align: left;
+    /* font-size: 20px; */
+    line-height: 28px;
+    color: #575757;
+}
+#text2 h1{
+   font-size: 20px;
+   font-weight: bold;
+}
+#text2 p{
+    padding-top: 18px;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+#text3{
+    position: absolute;
+    width: 309px;
+    height: 450px;
+    left: 460px;
+    top: 952px;
+    
+    background: rgba(187, 240, 205, 0.69);
+    border-radius: 15px;
+    padding: 58px 22px 22px 22px;
+    font-family: Helvetica;
+    font-style: normal;
+    text-align: left;
+    /* font-size: 20px; */
+    line-height: 28px;
+    color: #575757;
+}
+#text3 h1{
+    font-size: 20px;
+    font-weight: bold;
+    
+ }
+ #text3 p{
+     padding-top: 48px;
+     font-weight: normal;
+     font-size: 20px;
+     
+ }
+
+#text4{
+    position: absolute;
+    width: 309px;
+    height: 450px;
+    left: 827px;
+    top: 952px;
+    
+    background: rgba(187, 208, 240, 0.69);
+    border-radius: 15px;
+    padding: 58px 8px 22px 36px;
+    font-family: Helvetica;
+    font-style: normal;
+    text-align: left;
+    /* font-size: 20px; */
+    line-height: 28px;
+    color: #575757;
+}
+#text4 h1{
+    font-size: 20px;
+    font-weight: bold;
+    
+ }
+ #text4 p{
+     padding-top: 20px;
+     font-weight: normal;
+     font-size: 20px;
+     
+ }
+
+#requestquote{
+    position: absolute;
+    width: 303px;
+    height: 48px;
+    left: 136px;
+    top: 623px;
+    
+    background: #747474;
+    border-radius: 15px;
+    border: none;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 33px;
+    color: #FFFFFF;
+
+}
+
+.socialicon{
+    position: absolute;
+    width: 58px;
+    height: 286px;
+    left: 1308px;
+    top: 1031px;
+    
+    background: rgba(0, 0, 0, 0.24);
+    border-radius: 15px 0px 0px 15px;
+}
+.socialicon h1{
+    /* position: absolute; */
+    width: 77px;
+    height: 21px;
+    margin-top: 80px;
+    margin-left: -8px;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    color: #ffffff;
+    transform: rotate(90deg);
+}
+
+#instagram{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 18px;
+    top: 150px;
+    text-decoration: none;
+}
+
+#twitter{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 18px;
+    top: 200px;
+    text-decoration: none;
+}
+.footer{
+    position: absolute;
+    width: 1366px;
+    height: 72px;
+    left: 0px;
+    top: 1531px;
+    
+    background: #BBE3F0;
+}
+.footer h4{
+    font-size: 18px;
+    line-height: 32px;
+    color: #717171;
+    font-weight: 500;
+    position: absolute;
+    font-style: normal;
+    top: 20px;
+    left: 93px;
+}
+.footer h3{
+    
+    font-size: 18px;
+    line-height: 32px;
+    color: #717171;
+    font-weight: 500;
+    font-style: normal;
+    position: absolute;
+    top: 20px;
+    left: 470px;
+}
+.footer h2{
+    
+    font-size: 18px;
+    line-height: 32px;
+    color: #717171;
+    font-weight: 500;
+    position: absolute;
+    top: 20px;
+    left: 1180px;
+    font-family: 'roboto'
+}
